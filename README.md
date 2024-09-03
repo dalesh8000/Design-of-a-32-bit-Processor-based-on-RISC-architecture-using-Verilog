@@ -1,0 +1,2 @@
+# Design-of-a-32-bit-Processor-based-on-RISC-architecture-using-Verilog
+The primary objective of this project is to design and implement a 32-bit processor based on Reduced Instruction Set Computing (RISC) architecture using Verilog. The processor will be designed to execute a simplified and efficient set of instructions, allowing for high performance and scalability in digital computing applications
